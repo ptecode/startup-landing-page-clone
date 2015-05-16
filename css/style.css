@@ -90,3 +90,23 @@ body {
     font-size: 1.563rem;
     margin-top: 1.25rem;
 }
+
+.big-button {
+    display: block;
+    width: 9.688rem;
+    margin: 0 auto;
+    text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+    padding: 16px 26px;
+    line-height: 1.33;
+    background-color: #f15a29;
+    font-size: 1.125rem;
+    color: #fff;
+}
+
+.big-button:hover {
+    background-color: #d9400e;
+    border-color: #cf3d0e;
+    cursor: pointer;
+}
