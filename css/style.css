@@ -71,4 +71,22 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 45.938rem;
+    overflow: auto;
+}
+
+.introduction h1,
+.introduction h3 {
+    color: #fff;
+    text-align: center;
+    font-weight: 300;
+}
+
+.introduction h1 {
+    font-size: 3.125rem;
+    margin-top: 17.5rem;
+}
+
+.introduction h3 {
+    font-size: 1.563rem;
+    margin-top: 1.25rem;
 }
