@@ -1,6 +1,7 @@
 
 
 /*reference styles*/
+/*
 body {
     background-color: lightgrey;
 }
@@ -8,9 +9,10 @@ body {
 div {
     border: 1px solid chocolate;
 }
-
+*/
 
 /* Clearfix */
+
 .group::after {
     content: "";
     display: table;
@@ -18,6 +20,7 @@ div {
 }
 
 /* Box-sizing */
+
 html {
   box-sizing: border-box;
 }
@@ -63,25 +66,25 @@ ul {
     height: 70px;
 }
 
-.top-navigation .links {
+.links {
     float: right;
     color: #838994;
     letter-spacing: 0.03em;
     margin-top: 1.5625em;
 }
 
-.top-navigation .links li {
+.links li {
     display: inline-block;
     margin-left: 1.5625em;
     font-size: 16px;
 }
 
-.top-navigation .links .active {
+.links .active {
     color: #4c5058;
     font-weight: 500;
 }
 
-.top-navigation .links li:hover {
+.links li:hover {
     cursor: pointer;
     color: #333;
 }
@@ -151,13 +154,13 @@ ul {
     margin: 0.69em 0 1.34em;
 }
 
-.cases .devices li {
+.devices li {
     width: 33.333%;
     display: inline-block;
     margin-right: -4px;
 }
 
-.cases .devices h3 {
+.devices h3 {
     font-weight: 400;
     font-size: 1.38em;
     margin: 1.82em 0 1.36em;
@@ -185,7 +188,7 @@ ul {
     color: #838994;
 }
 
-.social .icons li {
+.icons li {
     display: inline-block;
     width: 2.5em;
     height: 2.5em;
@@ -196,7 +199,7 @@ ul {
     margin: 0.25em;
 }
 
-.social .icons li:hover {
+.icons li:hover {
     cursor: pointer;
 }
 
