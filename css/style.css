@@ -1,15 +1,14 @@
 
 
 /*reference styles*/
-/*body {
+body {
     background-color: lightgrey;
-    font-size: 1.1em;
-    line-height: 1.5;
 }
 
 div {
     border: 1px solid chocolate;
-}*/
+}
+
 
 /* Clearfix */
 .group::after {
@@ -31,6 +30,7 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
+    font-size: 16px;
 }
 
 .content {
