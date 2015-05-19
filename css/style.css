@@ -1,15 +1,15 @@
 
 
 /*reference styles*/
-body {
+/*body {
     background-color: lightgrey;
-    /*font-size: 1.1em;
-    line-height: 1.5;*/
+    font-size: 1.1em;
+    line-height: 1.5;
 }
 
 div {
     border: 1px solid chocolate;
-}
+}*/
 
 /* Clearfix */
 .group::after {
