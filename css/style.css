@@ -67,12 +67,12 @@ ul {
     float: right;
     color: #838994;
     letter-spacing: 0.03em;
-    margin-top: 25px;
+    margin-top: 1.5625em;
 }
 
 .top-navigation .links li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 1.5625em;
     font-size: 16px;
 }
 
@@ -93,7 +93,7 @@ ul {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 45.938rem;
+    height: 45.9375em;
     overflow: auto;
 }
 
@@ -105,26 +105,28 @@ ul {
 }
 
 .introduction h1 {
-    font-size: 3.125rem;
-    margin-top: 17.5rem;
+    font-size: 2.778em;
+    margin-top: 6.3017em;
+    margin-bottom: 0;
 }
 
 .introduction h3 {
-    font-size: 1.563rem;
-    margin-top: 1.25rem;
+    font-size: 1.389em;
+    margin-top: 0.909em;
+    margin-bottom: 1.125em;
 }
 
 .big-button {
     display: block;
-    width: 9.688rem;
+    width: 8.6115em;
     margin: 0 auto;
     text-shadow: none;
     border-style: none;
     border-radius: 4px;
-    padding: 16px 26px;
+    padding: 1em 1.5em;
     line-height: 1.33;
     background-color: #f15a29;
-    font-size: 1.125rem;
+    font-size: 1.125em;
     color: #fff;
 }
 
@@ -137,19 +139,19 @@ ul {
 /* Three Icon Section */
 
 .cases .content {
-    margin-top: 7.875rem;
+    margin-top: 7.875em;
     text-align: center;
     color: #1d1e21;
-    padding-bottom: 5rem;
+    padding-bottom: 5em;
 }
 
 .cases h2 {
-    font-size: 2.75rem;
+    font-size: 2.33em;
     font-weight: 300;
-    margin: 1.625rem 0 3.125rem;
+    margin: 0.69em 0 1.34em;
 }
 
-.cases .devices {
+.cases .devices li {
     width: 33.333%;
     display: inline-block;
     margin-right: -4px;
@@ -157,8 +159,8 @@ ul {
 
 .cases .devices h3 {
     font-weight: 400;
-    font-size: 1.563rem;
-    margin: 2.5rem 0 1.875rem;
+    font-size: 1.38em;
+    margin: 1.82em 0 1.36em;
 }
 
 .devices img {
@@ -170,7 +172,7 @@ ul {
 
 .social .content {
     text-align: center;
-    padding-bottom: 9.375rem;
+    padding-bottom: 9.375em;
     border-top: 1px solid #eaebec;
 }
 
@@ -185,13 +187,13 @@ ul {
 
 .social .icons li {
     display: inline-block;
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 2.5em;
+    height: 2.5em;
     border: 1px solid #eaebec;
     border-radius: 50%;
     text-align: center;
-    padding: 0.625rem 0;
-    margin: 0.25rem 5px;
+    padding: 0.625em 0;
+    margin: 0.25em;
 }
 
 .social .icons li:hover {
